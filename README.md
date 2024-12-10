@@ -28,7 +28,7 @@ If you want to contact me, you can reach me through below handles.
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
 </a>
 
-© 2021 Jigar Sable
+© 2021 Diwanshu Yadav
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
